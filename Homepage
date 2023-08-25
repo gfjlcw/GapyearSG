@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GapyearSG</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to GapyearSG</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Our Team</a></li>
+                <li><a href="#">Helpline</a></li>
+                <li><a href="#">Resources</a></li>
+                <li><a href="#">Stories</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main-content">
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, lectus id efficitur eleifend, est libero volutpat mauris.</p>
+    </section>
+
+    <section class="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Web Design</li>
+            <li>Graphic Design</li>
+            <li>Content Writing</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 GapyearSG. All rights reserved.</p>
+    </footer>
+</body>
+</html>
